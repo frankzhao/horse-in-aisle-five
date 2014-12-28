@@ -1,7 +1,7 @@
 horse-in-aisle-five
 ===================
 
-Novel file 'compression' method from XKCD's "What If?" series. Original here: [http://what-if.xkcd.com/34/].
+Novel file 'compression' method from XKCD's "What If?" series. Original here: http://what-if.xkcd.com/34/.
 
 How it works
 ===
