@@ -14,10 +14,10 @@ Dependencies
 
 Running
 ===
-Encode a file
-`python horse_encode.py [filename]`
+Encode a file  
+`python horse_encode.py [filename]`  
 The encoded file will be named `filename.horse`.
 
-Decode a file
-`python horse_decode.py [filename]`
+Decode a file  
+`python horse_decode.py [filename]`  
 The decoded file will be named `filename.unhorse`.
