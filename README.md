@@ -20,4 +20,4 @@ The encoded file will be named `filename.horse`.
 
 Decode a file
 `python horse_decode.py [filename]`
-The encoded file will be named `filename.unhorse`.
+The decoded file will be named `filename.unhorse`.
